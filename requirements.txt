@@ -1,5 +1,5 @@
-streamlit==1.36.0
-pandas==2.1.4
-openpyxl==3.1.2
-xlsxwriter==3.1.9
+streamlit>=1.28.0
+pandas # Usando a versão mais recente do pandas
+openpyxl
+xlsxwriter
 # twilio==8.10.0 # Comentado para tornar opcional
